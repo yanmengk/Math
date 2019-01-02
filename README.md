@@ -10,7 +10,11 @@
 
 3. Introduction to Linear Algebra, Gilbert Strang
 
-4. 凸优化
+4. [Seeing Theory](https://seeing-theory.brown.edu/cn.html#firstPage)
+
+   看得见的统计概率入门。充分利用了数据可视化技术，交互性和趣味性都非常强，可以边读边玩。该书共分为 6 章：基础概率论、进阶概率论、概率分布、统计推断：频率学派、统计推断：贝叶斯学派和回归分析。
+
+5. 凸优化
 
 
 
